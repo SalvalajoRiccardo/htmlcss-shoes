@@ -36,6 +36,46 @@
 
 /* debug */
 
+/* parte menu */
+.menu {
+    position: fixed;
+    top: 30px;
+    right: 20px;
+
+}
+
+.menu ul li {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu li a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    margin: 0 40px;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    
+
+}
+
+
+/* parte menu */
+
+.container {
+    width: 100;
+    
+}
+
+.container .sector {
+    height: 100vh;
+    width: 100%;
+}
+
 #top {
     background-color: red;
 }
