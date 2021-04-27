@@ -7,13 +7,43 @@
 
 /* debug */
 .debug {
-    width: 1160px;
+    /* width: 1160px;
+    background-color: aqua; */
 }
 
-.debug main .top {
-    height: 100vw;
+.debug .menu {
+    position: fixed;
+    top: 30px;
+    right: 20px;
+
+}
+
+.debug .menu ul li {
+    display: inline-block;
+}
+
+.debug .container {
+    width: 100;
+    
+}
+
+.debug .container .sector {
+    height: 100vh;
     width: 100%;
 }
 
 
+
 /* debug */
+
+#top {
+    background-color: red;
+}
+
+#mid {
+    background-color:green;
+}
+
+#bot {
+    background-color: yellow;
+}
