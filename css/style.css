@@ -2,4 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/* debug */
+.debug {
+    width: 1160px;
+}
+
+.debug main .top {
+    height: 100vw;
+    width: 100%;
+}
+
+
+/* debug */
